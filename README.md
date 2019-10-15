@@ -5,4 +5,4 @@ experimental project
 
 File|Build Status
 ---|---
-hello.c[![Build Status](https://travis-ci.com/BioFrostX/hello-world.svg?branch=master)]
+[![Build Status](https://travis-ci.com/bahongshan/first.svg?branch=master)](https://travis-ci.com/bahongshan/first)
